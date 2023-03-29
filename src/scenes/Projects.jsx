@@ -25,8 +25,7 @@ const Project = ({ title }) => {
       <div className={overlayStyles}>
         <p className="text-2xl font-playfair">{title}</p>
         <p className="mt-7">
-          Ainda vou printar meus projetos pra colocar aqui. Por enquanto contente-se
-          com essas imagens aleatórias da internet
+          I'm still going to print my projects to put here...
         </p>
       </div>
       <img src={`../assets/${projectTitle}.jpeg`} alt={projectTitle} />
@@ -58,7 +57,7 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Conheça um pouco do meu trabalho
+          Know a little more about my work
         </p>
       </motion.div>
 
@@ -76,7 +75,7 @@ const Projects = () => {
             className="flex justify-center text-center items-center p-10 bg-red
               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
           >
-            Bunitão, né?
+            Check it out
           </div>
           <Project title="Project 1" />
           <Project title="Project 2" />
@@ -92,8 +91,8 @@ const Projects = () => {
           <div
             className="flex justify-center text-center items-center p-10 bg-blue
               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
-          >
-            O pai manja dos paranauê
+          >  
+            In addition to being a developer, I am also a UX designer.
           </div>
         </motion.div>
       </div>

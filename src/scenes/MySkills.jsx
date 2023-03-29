@@ -24,7 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            I don't know what to wrtie here. But I'm pretty sure that i'm gonna think in something
+            Here are my soft skills
           </p>
         </motion.div>
 
@@ -64,13 +64,13 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Lindo
+              Communication
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Porque todos são leigos e carecem de técnica
+            Ability to communicate clearly and work in a team.
           </p>
         </motion.div>
 
@@ -90,13 +90,13 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">02</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Inteligente
+                Interpersonal skills
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Porque todos são leigos e carecem de técnica
+            Ability to establish healthy and balanced relationships and work in a team.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -115,13 +115,13 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">03</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Esplêndido
+                Problem solving
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Porque todos são leigos e carecem de técnica
+            Ability to analyze problems, make decisions and solve problems effectively.
           </p>
         </motion.div>
       </div>

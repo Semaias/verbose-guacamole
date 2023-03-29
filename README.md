@@ -1,2 +1,3 @@
-# That is my Portfolio App
-it's simple, but works pretty well
+# React Portfolio App
+
+Completed React Admin Dashboard Repo

@@ -21,7 +21,7 @@ const Testimonials = () => {
         </p>
         <LineGradient width="mx-auto w-2/5" />
         <p className="mt-10">
-          Pra não dizer que sou eu que me acho muito. Olha aí essa galera 100% confiável falando de mim.
+          Here we have random people talking about working with me
         </p>
       </motion.div>
 
@@ -41,7 +41,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Esse cara é incrível
+            Working with you is fun and always challenging.
           </p>
         </motion.div>
 
@@ -59,7 +59,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            O maluco é sensacional demais
+            Working with you is a stimulating experience.
           </p>
         </motion.div>
 
@@ -77,7 +77,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Quando eu crescer quero ser igual a ele
+            It's always rewarding to track your progress.
           </p>
         </motion.div>
       </div>
